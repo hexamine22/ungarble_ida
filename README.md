@@ -12,3 +12,5 @@ When you run the script, some errors are expected due to false positives, these 
 There may still be bugs, as this is very experimental.
 Patching the decrypted strings is not yet implemented, but it will be soon.
 Usage : File -> Script file... -> Select this script.
+
+![demo_gif](garble-string-dec.gif)
